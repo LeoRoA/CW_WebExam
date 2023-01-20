@@ -1,4 +1,4 @@
-package com.example.cw_webexam;
+package com.example.exam;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
