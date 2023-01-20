@@ -1,4 +1,4 @@
-package com.example.cw_webexam;
+package com.example.exam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
